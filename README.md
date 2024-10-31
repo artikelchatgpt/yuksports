@@ -22,11 +22,6 @@ Proyek ini bertujuan untuk menyediakan informasi terbaru dan analisis mendalam t
 - [Tiktok](https://www.tiktok.com/@yuksports)
 - [Youtube](https://www.youtube.com/@yuksportsofficial)
 
-
-## Gambar Konten
-
-![Gambar Olahraga](https://example.com/path-to-sport-image.jpg)
-
 ## Terima Kasih
 
 Silahkan kunjungi website kami, jika anda ingin melihat berita-berita mengenai dunia sport.
