@@ -15,18 +15,18 @@ Proyek ini bertujuan untuk menyediakan informasi terbaru dan analisis mendalam t
 
 ## Tautan Terkait
 
-- [Website Resmi Proyek](https://www.yoursite.com)
-- [Blog Olahraga](https://www.sportblog.com)
-- [Twitter Kami](https://twitter.com/yoursportaccount)
+- [Website Resmi Kami](https://yuksports.com/)
+- [Facebook](https://www.facebook.com/people/Yuk-Sportsty/pfbid02CVJfPjw3v2SeFSSrD8boMsDPBSQdHsQgJW1DFXmNQtCc6QnnPWiLUzZYti3XeoX3l/)
+- [Instagram](https://www.instagram.com/yuksports_/)
+- [Twitter](https://twitter.com/yuksports_)
+- [Tiktok](https://www.tiktok.com/@yuksports)
+- [Youtube](https://www.youtube.com/@yuksportsofficial)
+
 
 ## Gambar Konten
 
 ![Gambar Olahraga](https://example.com/path-to-sport-image.jpg)
 
-## Kontribusi
+## Terima Kasih
 
-Kami selalu terbuka untuk kontribusi. Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request. Pastikan untuk mengikuti pedoman kontribusi kami.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+Silahkan kunjungi website kami, jika anda ingin melihat berita-berita mengenai dunia sport.
