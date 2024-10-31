@@ -1,7 +1,7 @@
 # yuksports
 # Selamat Datang di Proyek Olahraga Kami!
 
-![Yuksports](https://example.com/path-to-sport-logo.jpg)
+![Yuksports](https://raw.githubusercontent.com/artikelchatgpt/yuksports/refs/heads/main/Yuksports.png)
 
 ## Tentang Proyek
 
